@@ -1,0 +1,4 @@
+mkdir telehealth-backend
+cd telehealth-backend
+npm init -y
+npm install express mongoose cors socket.io webrtc uuid
