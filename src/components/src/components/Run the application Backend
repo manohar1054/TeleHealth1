@@ -1,0 +1,2 @@
+cd telehealth-backend
+node server.js
